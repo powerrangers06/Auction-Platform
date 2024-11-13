@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product List - Auction Platform</title>
+    <link rel="stylesheet" href="C:\Users\Msi\Desktop\Auction platform\styles\styles.css">
+</head>
+<body>
+    <header>
+        <h1>Available Products for Auction</h1>
+        <nav>
+            <a href="index.html" class="nav-home">Home</a>
+            <a href="orders.html" class="nav-orders">Orders</a>
+            <a href="contact.html" class="nav-contact">Contact Us</a>
+        </nav>
+    </header>
+
+    <section id="product-list">
+        <h2>Product List</h2>
+        <div class="product-grid">
+            <!-- Product items -->
+            <div class="product" onclick="showBidOption('Product 1', 100)">
+                <img src="images/a.jpg" alt="Product 1" >
+                <h3>Camera</h3>
+                <div class="bid-option" id="bid-option-product1">
+                    <label for="bid-price-product1">Enter your bid:</label>
+                    <input type="number" id="bid-price-product1" min="0" placeholder="Enter price">
+                    <button onclick="placeBid('Product 1')">Place Bid</button>
+                </div>
+            </div>
+
+            <div class="product" onclick="showBidOption('Product 2', 150)">
+                <img src="images/flower-pot-1-rajasthan-creation-original-imafzduhzvfxbzcs.webp" alt="Product 2">
+                <h3>Ancient Vase</h3>
+                <div class="bid-option" id="bid-option-product2">
+                    <label for="bid-price-product2">Enter your bid:</label>
+                    <input type="number" id="bid-price-product2" min="0" placeholder="Enter price">
+                    <button onclick="placeBid('Product 2')">Place Bid</button>
+                </div>
+
+                
+            </div>
+
+            <div class="product" onclick="showBidOption('Product 2', 150)">
+                <img src="images/flower-pot-1-rajasthan-creation-original-imafzduhzvfxbzcs.webp" alt="Product 2">
+                <h3>Ancient Vase</h3>
+                <div class="bid-option" id="bid-option-product2">
+                    <label for="bid-price-product2">Enter your bid:</label>
+                    <input type="number" id="bid-price-product2" min="0" placeholder="Enter price">
+                    <button onclick="placeBid('Product 2')">Place Bid</button>
+                </div>
+
+                
+            </div>
+
+            <div class="product" onclick="showBidOption('Product 2', 150)">
+                <img src="images/flower-pot-1-rajasthan-creation-original-imafzduhzvfxbzcs.webp" alt="Product 2">
+                <h3>Ancient Vase</h3>
+                <div class="bid-option" id="bid-option-product2">
+                    <label for="bid-price-product2">Enter your bid:</label>
+                    <input type="number" id="bid-price-product2" min="0" placeholder="Enter price">
+                    <button onclick="placeBid('Product 2')">Place Bid</button>
+                </div>
+
+                
+            </div>  
+
+            <!-- Add more products here -->
+        </div>
+    </section>
+
+    <script src="C:\Users\Msi\Desktop\Auction platform\script\script.js"></script>
+</body>
+</html>
