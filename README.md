@@ -11,10 +11,12 @@
 
 <h3 align="left">Presented by:</h3>
 <p align="left">
-  <p> **Gauri Goel : 23SCSE1011321**
-  **Kartik Malik : 23SCSE1010216**
-  **Shivam Kumar Pandey : 23SCSE**
-  Siddharth Kumar Bhagat : 23SCSE**</p>
+  <p> 
+  Gauri Goel : 23SCSE1011321
+  Kartik Malik : 23SCSE1010216
+  Shivam Kumar Pandey : 23SCSE
+  Siddharth Kumar Bhagat : 23SCSE
+  </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
