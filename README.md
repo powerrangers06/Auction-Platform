@@ -45,13 +45,11 @@
 </p>
 
 <!-- Added spacing -->
-<br><br>
+<br>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=powerrangers06&show_icons=true&locale=en&layout=compact" alt="powerrangers06" />
 </p>
-
-<br><br>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=powerrangers06&show_icons=true&locale=en" alt="powerrangers06" />
