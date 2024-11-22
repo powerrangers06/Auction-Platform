@@ -11,8 +11,6 @@
 
 <h3 align="left">Presented by:</h3>
 <p align="left">
-<h3 align="left">Presented by:</h3>
-<p align="left">
   <b>Gauri Goel:</b> 23SCSE1011321<br>
   <b>Kartik Malik:</b> 23SCSE1010216<br>
   <b>Shivam Kumar Pandey:</b> 23SCSE<br>
